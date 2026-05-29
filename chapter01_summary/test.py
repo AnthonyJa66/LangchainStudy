@@ -1,8 +1,9 @@
 #导入 dotenv 库的 load_dotenv 函数，用于加载环境变量文件（.env）中的配置
+import os
 import dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
-import os
+
 
 dotenv.load_dotenv() #加载当前目录下的 .env 文件
 
