@@ -7,6 +7,8 @@
           <value>
             <TabSessionState>
               <option name="provider" value="claude" />
+              <option name="sessionId" value="2e578f2f-cda7-4697-b9e1-0a9a5a655923" />
+              <option name="cwd" value="$PROJECT_DIR$" />
               <option name="model" value="claude-sonnet-4-6[1m]" />
               <option name="permissionMode" value="default" />
               <option name="reasoningEffort" value="high" />
